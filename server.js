@@ -1,3 +1,4 @@
+/*this is the server that actually runs the API. The json-server module runs the backend*/
 const jsonServer = require('json-server');
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
