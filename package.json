@@ -1,0 +1,23 @@
+{
+  "name": "cat-video-api",
+  "version": "1.0.0",
+  "description": "An API for cat videos! Binge watch our fuzzy friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an288705/cat-video-api.git"
+  },
+  "author": "Andres Advincula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/an288705/cat-video-api/issues"
+  },
+  "homepage": "https://github.com/an288705/cat-video-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
