@@ -1,4 +1,4 @@
-/*this is the server that actually runs the API. The json-server module runs the backend*/
+/*The json-server module runs the backend of the API. Go to https://github.com/typicode/json-server for more information on the methods and routes available*/
 const jsonServer = require('json-server');
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
