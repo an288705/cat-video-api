@@ -19,6 +19,8 @@ To update the cat-video-api:
 * The cat videos must be from youtube
 * You must provide the videoID, channelID, title of video, and description of the video. Those can be found here:
 
+![alt text](https://github.com/an288705/cat-video-api/blob/main/youtube%20information.jpg)
+
 ## Contributing to cat-video-api
 
 To contribute to nba_salary_predictor, follow these steps:
