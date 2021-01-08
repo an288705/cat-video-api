@@ -19,7 +19,10 @@ To update the cat-video-api:
 * The cat videos must be from youtube
 * You must provide the videoID, channelID, title of video, and description of the video. Those can be found here:
 
-![alt text](https://github.com/an288705/cat-video-api/blob/main/youtube%20information.jpg)
+<p align="center">
+  <img src="https://github.com/an288705/cat-video-api/blob/main/youtube%20information.jpg" width="350" title="hover text">
+  <img src="https://github.com/an288705/cat-video-api/blob/main/youtube%20information.jpg" width="350" alt="accessibility text">
+</p>
 
 ## Contributing to cat-video-api
 
