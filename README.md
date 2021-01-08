@@ -20,8 +20,8 @@ To update the cat-video-api:
 * You must provide the videoID, channelID, title of video, and description of the video. Those can be found here:
 
 <div align="center">
-  <img src="https://github.com/an288705/cat-video-api/blob/main/youtube%20information.jpg" width="500" title="hover text">
-  <img src="https://github.com/an288705/cat-video-api/blob/main/channel%20information.jpg" width="500" title="hover text">
+  <img src="https://github.com/an288705/cat-video-api/blob/main/youtube%20information.jpg" width="450" title="hover text">
+  <img src="https://github.com/an288705/cat-video-api/blob/main/channel%20information.jpg" width="450" title="hover text">
 </div>
 
 ## Contributing to cat-video-api
