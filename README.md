@@ -17,7 +17,7 @@ This api uses the json-server module to handle API. Review the documentation for
 To update the cat-video-api: 
 * You must follow the formatting standard of this json file.
 * The cat videos must be from youtube
-* You must provide the videoID, channelID, title of video, and description of video. Those can be found here:
+* You must provide the videoID, channelID, title of video, and description of the video. Those can be found here:
 
 ## Contributing to cat-video-api
 
